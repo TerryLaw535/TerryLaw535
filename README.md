@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Weichen Yu. I love coding
+My name is Weichen Yu.
+🔭 I’m currently study in University of Nottingham
+🌱 I’m currently learning Mathematics and Applied Mathematics and interested in computational science and operation research
 
 <!--
 **TerryLaw535/TerryLaw535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
