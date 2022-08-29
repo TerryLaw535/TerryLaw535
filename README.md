@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Weichen Yu.
 
-🔭 I currently study in University of Pennsylvania
+🔭 I‘m currently studying in University of Pennsylvania
 
 🌱 I’m currently learning Scientific Computing
 
