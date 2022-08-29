@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Weichen Yu.
 
-🔭 I’m currently study in University of Nottingham
+🔭 I currently study in University of Pennsylvania
 
-🌱 I’m currently learning Mathematics and Applied Mathematics and interested in computational science and operation research
+🌱 I’m currently learning Scientific Computing
 
 <!--
 **TerryLaw535/TerryLaw535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
