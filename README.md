@@ -3,7 +3,7 @@ My name is Weichen Yu.
 
 🔭 I‘m currently studying in University of Pennsylvania.
 
-🌱 I’m currently learning software develop, big data analytics and artificial intelligence.
+🌱 I’m currently learning data science and machine learning.
 
 <!--
 **TerryLaw535/TerryLaw535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
